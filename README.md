@@ -27,8 +27,8 @@ Codes for Paper: [Superpixel-enhanced Deep Neural Forest for Remote Sensing Imag
 
 ## Pre-trained Model
 *	Download the Pre-trained [resnet_v2_101.ckpt](https://drive.google.com/file/d/1pMixI1wD11TzbOp-QygUPUygzkGrEuYo/view?usp=sharing) and put it into /Code/net/resnet.
-*	Download the Pre-trained model for Vaihingen Dataset and put it into /Models/Vaihingen.
-* Download the Pre-trained model for Potsdam Dataset and put it into /Models/Potsdam.
+*	Download the Pre-trained [model for Vaihingen Dataset](https://drive.google.com/file/d/10V9Qtz8kKMH2uybOzLdLRnT_HTeY-vHb/view?usp=sharing) and put it into /Models/Vaihingen.
+* Download the Pre-trained [model for Potsdam Dataset](https://drive.google.com/file/d/10V9Qtz8kKMH2uybOzLdLRnT_HTeY-vHb/view?usp=sharing) and put it into /Models/Potsdam.
 
 ## Evaluation
 ``` python
@@ -42,7 +42,7 @@ predict_vaihingen.process()
 * The whole evaluation process is about 20min.
 
 ## Results
-|                      | Imp.S.   | Imp.S. | Build.   | **Build.** | Low.V.   | Low.V. | Tree     | Tree | Car      | Car  | Mean     | Mean     | OA       |
+|                      | Imp.S.   | Imp.S. |  Build.  |   Build.   | Low.V.   | Low.V. | Tree     | Tree | Car      | Car  | Mean     | Mean     | OA       |
 | -------------------- | -------- | ------ | -------- | ---------- | -------- | ------ | -------- | ---- | -------- | ---- | -------- | -------- | -------- |
 |                      | F1       | IoU    | F1       | IoU        | F1       | IoU    | F1       | IoU  | F1       | IoU  | F1       | IoU      |          |
 | Pre-trained Model(P) | 93.6     | 87.7   | 96.3     | 93         | **89.8** | 81.5   | **92.7** | 86.4 | **96.7** | 93.6 | **93.8** | **88.4** | 92.1     |
