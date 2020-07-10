@@ -1,0 +1,12 @@
+- Potsdam
+  -- Test
+     -- Image
+     -- Label
+     -- Label_noboundary
+  -- Train
+- Vaihingen
+  -- Test
+     -- Image
+     -- Label
+     -- Label_noboundary
+  -- Train
