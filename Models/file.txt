@@ -1,0 +1,6 @@
+- Potsdam
+    -- checkpoint
+    -- model.ckpt
+- Vaihingen
+    -- checkpoint
+    -- model.ckpt
