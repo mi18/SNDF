@@ -1,7 +1,6 @@
 # Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation
-Code for Paper  
-[Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0924271619302606)  
-(https://github.com/mi18/SNDF/blob/master/Frameworks.png) 
+Codes for Paper: [Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0924271619302606)  
+![Framework](https://github.com/mi18/SNDF/blob/master/Frameworks.png) 
 ## Environments
 * Python 3.6.2
 * Tensorflow 1.6.0
