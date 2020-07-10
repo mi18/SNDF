@@ -24,6 +24,12 @@ Codes for Paper: [Superpixel-enhanced Deep Neural Forest for Remote Sensing Imag
 | Un      | 6     | 0    | 0    | 0    |
 
 *	Rename the testing image and label image.
+
+## Pre-trained Model
+*	Download the Pre-trained resnet_v2_101.ckpt and put it into /Code/net/resnet.
+*	Download the Pre-trained model for Vaihingen Dataset and put it into /Models/Vaihingen.
+* Download the Pre-trained model for Potsdam Dataset and put it into /Models/Potsdam.
+
 ## Evaluation
 ``` python
 import predict_potsdam
