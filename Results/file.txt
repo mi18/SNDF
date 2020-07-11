@@ -1,0 +1,10 @@
+- Postdam
+    --color
+    --pred
+    --Fully_Reference.txt
+    --No_Boundary.txt
+- Vaihingen
+    --color
+    --pred
+    --Fully_Reference.txt
+    --No_Boundary.txt
