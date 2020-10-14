@@ -1,4 +1,6 @@
 # Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation
+NOTE: this project is still ongoing. Codes and modifications will continue to be updated.
+
 Results for Paper: [Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S0924271619302606)  
 ![Framework](https://github.com/mi18/SNDF/blob/master/Frameworks.png) 
 ## Environments
